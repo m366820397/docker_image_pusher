@@ -1,1 +1,1 @@
-oxidized/oxidized:latest
+collabora/code
