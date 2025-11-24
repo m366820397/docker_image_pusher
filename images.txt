@@ -1,1 +1,1 @@
-collabora/code
+docker.io/collabora/code:latest
